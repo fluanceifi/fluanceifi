@@ -1,5 +1,25 @@
-# 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tktktk6)](https://solved.ac/tktktk6)​
+# SeungJun's Github
+
+## Career
+| TYPE | DATE | NAME | ORGANIZATION |
+| :-- | :-- | :-- | :-- |
+| 대학교 | 2024. 03 ~ 2026. 02 | 휴먼AI공학과 | 상명대학교 |
+| 부트캠프 | 2026. 01 ~ 2026. 06 | 우리 FIS 아카데미 클라우드 서비스 개발 | 우리 FIS |
+
+## TechStack
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
+
+
+## Certification
+| NAME | DATE | ORGANIZATION | NUMBER | 
+| :-- | :-- | :-- | :-- |
+| 정보처리기사 | 2025. 06. 18 | 한국산업인력공단 | 25201020444V |
+
+## BOJ
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tktktk6)](https://solved.ac/tktktk6)
+
+
+​
 <!--
 **fluanceifi/fluanceifi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
