@@ -27,6 +27,7 @@
 | NAME | DATE | ORGANIZATION | NUMBER | 
 | :-- | :-- | :-- | :-- |
 | 정보처리기사 | 2025. 06. 18 | 한국산업인력공단 | 25201020444V |
+| SQLD | 2026. 03. 27 | 한국데이터산업진흥원 | SQLD-060014120 |
 
 ## BOJ
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tktktk6)](https://solved.ac/tktktk6)
